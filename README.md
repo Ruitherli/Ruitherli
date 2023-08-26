@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://github.com/Ruitherli/Ruitherli/blob/main/Open-A-New-Window.gif" width="1280" height="320">
+<div align="center" style="position: relative;">
+  <img src="banner.gif" alt="Banner" style="display: block; width: 1280px; height: auto;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.3);"></div>
 </div>
-
 <div align="center">
 
 # 💫 About Me
