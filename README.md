@@ -1,6 +1,8 @@
 <div align="center">
-    
+
 # 💫 About Me
+
+</div>
 
 👋 Hi, I'm Rui Kang, a 2nd year Computer Science undergraduate at the University of Southampton Malaysia.  
 💻 I'm passionate about software development and proficient in Java, Python, MySQL, and Haskell.  
@@ -8,6 +10,8 @@
 🔬 Currently exploring Machine Learning.  
 📫 Feel free to reach out to me at ruikang002@gmail.com.  
 🏖️ Outside of coding, I enjoy watching movies and exercising.
+
+<div align="center">
 
 <br>
 
@@ -31,11 +35,26 @@
 
 <br>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Streak
 
-![](https://github-readme-stats.vercel.app/api?username=Ruitherli&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ruitherli&theme=dracula&hide_border=false)  
-![](https://github-profile-trophy.vercel.app/?username=Ruitherli&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ruitherli&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruitherli&theme=dracula&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+# 🏆 GitHub Trophies
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruitherli&theme=dracula&no-frame=false&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
 
 <br>
 
