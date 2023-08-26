@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/Ruitherli/Ruitherli/blob/main/Open-A-New-Window.gif" width="1280" height="320">
+</div>
+
+<div align="center">
 
 # 💫 About Me
 
