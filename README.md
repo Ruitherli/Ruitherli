@@ -57,7 +57,7 @@
 # 🏆 GitHub Trophies
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruitherli&theme=dracula&no-frame=false&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruitherli&theme=dracula&no-frame=false&no-bg=true&margin-w=15&column=8" alt="GitHub Trophies" />
 </div>
 
 <br>
