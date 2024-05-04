@@ -8,10 +8,10 @@
 
 </div>
 
-👋 Hi, I'm Rui Kang, a 2nd year Computer Science undergraduate at the University of Southampton Malaysia.  
-💻 I'm passionate about software development and proficient in Java, Python, MySQL, and Haskell.  
-🎓 I've worked on various academic projects including a Runway Redeclaration Tool, a Restaurant Management System, and a Distributed Storage System.  
-🔬 Currently exploring Machine Learning.  
+👋 Hi, I'm Rui Kang.  
+💻 I'm passionate about software development and proficient in Java, Python, MySQL.  
+🎓 I've worked on various academic projects including a Runway Redeclaration Tool, a Restaurant Management System, and a Personal Desk Assistant.  
+🔬 Currently exploring Data Analysis and Machine Learning.  
 📫 Feel free to reach out to me at ruikang002@gmail.com.  
 🏖️ Outside of coding, I enjoy watching movies and exercising.
 
