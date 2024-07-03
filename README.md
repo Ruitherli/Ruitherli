@@ -9,10 +9,16 @@
 </div>
 
 👋 Hi, I'm Rui Kang.  
+
 💻 I'm passionate about software development and proficient in Python, Java and MySQL.
-🎓 I've worked on various academic projects including a chatbot with face recognition on an embedded system, an IMDB score predictor, a cloud-based text editor on Azure and so on.  
+
+🎓 I've worked on various academic projects including a chatbot with face recognition on an 
+embedded system, an IMDB score predictor, a cloud-based text editor on Azure and so on.  
+
 🔬 Currently exploring Data Analysis and Machine Learning.  
+
 📫 Feel free to reach out to me at ruikang002@gmail.com.  
+
 🏖️ Outside of coding, I enjoy watching movies and exercising.
 
 <div align="center">
